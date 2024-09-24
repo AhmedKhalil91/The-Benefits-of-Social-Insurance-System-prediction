@@ -52,4 +52,10 @@ License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
+For dataset
 
+To clarify, the data in the MOISA dataset was indeed curated from the annual statistics books, specifically from Chapter/Section 17 titled "Social Care" during the period 1979-2019. I would like to clarify that the format and structure of the annual books have varied over the years. For instance, the design and chapter layout in the earlier years differ from the current ones. In the 2023 book, the chapters may end at 15, but in previous years, additional sections and chapters were included. From the link I shared, you can download the annual statistics books. However, please note that prior to 2017, you can download the entire book, including all sections and chapters. From 2017 onwards, you are able to download only the specific section that you wish to access.
+
+Additionally, The dataset “Raw_data.xlsx” was indeed curated using the data from these books. To provide more clarity, I am attaching two copies of the annual statistics books from different years, as well as a screenshot from the 2013 edition. This screenshot shows the table from which we collected the data for the period 2003 to 2013, as an example in this driver link: https://drive.google.com/drive/folders/1iI9_36b09lwgnKH02AEFUaqLQVs7WBil?usp=sharing.
+
+ 
